@@ -1,0 +1,10 @@
+
+
+train: ./VOCdevkit/images/train # 16551 images
+val: ./VOCdevkit/images/val # 4952 images
+
+# number of classes
+nc: 1
+
+# class names
+names: ['falling']

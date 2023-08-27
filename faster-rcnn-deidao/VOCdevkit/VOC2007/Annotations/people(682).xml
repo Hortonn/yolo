@@ -1,0 +1,26 @@
+<annotation>
+    <folder>VOC2007</folder>
+    <filename>people(682).jpg</filename>
+<source>
+<database>orgaquant</database>
+<annotation>organoids</annotation>
+</source>
+    <size>
+        <width>500</width>
+        <height>640</height>
+        <depth>3</depth>
+    </size>
+            <segmented>0</segmented>
+    <object>
+<name>falling</name>
+                    <pose>Unspecified</pose>
+                    <truncated>0</truncated>
+                    <difficult>0</difficult>
+        <bndbox>
+            <xmin>176</xmin>
+            <ymin>221</ymin>
+            <xmax>491</xmax>
+            <ymax>545</ymax>
+        </bndbox>
+    </object>
+</annotation>
